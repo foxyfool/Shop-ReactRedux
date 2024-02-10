@@ -1,3 +1,5 @@
+Project Description and Learning
+
 // index js 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -31,7 +33,7 @@ export default App;
 
 renders NavBar , Routes to pages HOME and CART
 
-we created 2 pages now HOME and CART
+I created 2 pages now HOME and CART
 
 HOME 
 
